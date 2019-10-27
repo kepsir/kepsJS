@@ -1,0 +1,3 @@
+// Dynamic Links will start with https://kepsir.com/alt
+"appAssociation": "AUTO",
+"rewrites": [ { "source": "/alt/**", "dynamicLinks": true } ]
